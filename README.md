@@ -1,5 +1,4 @@
 # em092.gitbub.io
-[HopeCollection(1).txt](https://github.com/user-attachments/files/26358350/HopeCollection.1.txt)
 <!DOCTYPE html>
 <html>
 <head>
